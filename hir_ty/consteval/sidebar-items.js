@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ComputedExpr",""],["ConstEvalError",""]],"fn":[["eval_const",""],["eval_usize",""],["usize_const","Interns a possibly-unknown target usize"]],"struct":[["ConstEvalCtx",""]],"trait":[["ConstExt","Extension trait for [`Const`]"]]});
